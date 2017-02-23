@@ -1,6 +1,6 @@
 module SensuPluginsOdoo
   module Version
-    MAJOR = 1
+    MAJOR = 0
     MINOR = 0
     PATCH = 1
 

@@ -1,5 +1,7 @@
 ## Sensu-Plugins-Odoo
 
+[![Gem Version](https://badge.fury.io/rb/sensu-plugins-odoo.svg)](https://badge.fury.io/rb/sensu-plugins-odoo)
+
 ## Functionality
 
 **metric-odoo-filestore-objectcount.rb**
